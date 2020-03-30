@@ -7,3 +7,5 @@ We started with under 50 cases
 in November or December of 2019 and here at the end of March
 we have at least 700,000 cases!  This is why we ALL need to be
 careful not to spread this virus whether we have symptoms or not.
+
+The exe file I am told will work on a windows, Apple or Linux system. and the c program compiled with codeBlocks and gcc on linux mint 19
